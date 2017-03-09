@@ -1,0 +1,51 @@
+---
+ID: 13
+post_title: >
+  10 Awesome Mobile UX Design Strategies
+  That Work
+author: admin
+post_date: 2016-11-06 01:28:11
+post_excerpt: ""
+layout: post
+permalink: >
+  http://modern-web.dev/2016/11/06/10-awesome-mobile-ux-design-strategies-that-work/
+published: true
+---
+<p style="text-align: justify">If you are not hiding in a jungle or cave for years, you are bound to come across the flat design. It is actually everywhere, from websites to mobile apps to media publications to media ads. Primarily popularized by the web designers it quickly became a craze and soon businesses rather found it effective for garnering more page views, easier engagement and business conversion. The result is the whole web and mobile space became swept by flat design.</p>
+<p style="text-align: justify">Flat design is basically rooted on 2 main principles, respectively as simplicity and readability. First of all, flat design both look-wise and use-wise offers simple interface allowing greater ease and engagement. Secondly, flat design thanks to its easy and simple layout optimize readability to a great extent. Simplicity and readability, these two principles of flat design make way for all kinds of stylish web layouts, digital interfaces, software designs, posters, etc.</p>
+
+<h2 style="text-align: justify"><strong>What is flat design?</strong></h2>
+<p style="text-align: justify">Flat design is quintessentially a minimalistic type of design that focuses on usability. It offers cleanliness, use of white or negative space, crisp edges, bright colors with optimized contrast and 2-dimensional illustrations. It all started with Microsoft when the company grabbed flat interface for Windows 8 just as a backlash against the then popular skeuomorphic design. Flat design completely renounces any wishes to create a replica of real life objects in digital interfaces, rather it creates flat, depth-less and icon like that instantly make suggestions and relates actions.</p>
+
+<h2 style="text-align: justify"><strong>Flat design key elements</strong></h2>
+<p style="text-align: justify">Flat design abstains itself from the use of intricacies like shadows, gradients and perspective. Shadows, strokes and all 3-dimensional design elements are dropped here. These elements are dropped because they contribute to the visual clutter and fail to make an intuitive suggestion. On the other hand, flat design elements are simple and thoroughly easy to recognize offering instant suggestions to actions.</p>
+<p style="text-align: justify">Flat design became more popular because of the advent of mobile browsing which demands more clutter free design as the screen space is limited here. The use of simple and suggestive icon like images is likely to maximize the pixel count on the screen. Moreover, the minimalist design makes it easier for the designers to allow the wider spacing between icons and other elements like images and contents. As a result, flat design allows extremely clutter free crisp layout in the website and mobile apps.</p>
+<p style="text-align: justify">Readability is another big question that is addressed best with minimalist design style. Using more negative or empty or white spaces around the text the readability will certainly get increased. Flat design besides ensuring such optimum readability also helps to place a large body of texts within a page as simple design minus the strokes, shadows, etc. can save a lot of space as well.</p>
+<p style="text-align: justify">Facebook is a great example of how adapting the design format a website can garner better engagement and traffic. Like Facebook, a vast majority of content rich sites across the globe transformed design to make it flatter making way for simpler icons, designs and vision-friendly visual aspects. Google followed the trend by making its icons to a flatter one. After remaining popular for years in a row, the flat design still seems to be the most enduring design format and it is very unlikely that we can bid adieu to this design principle so soon. Flat design has the following elements.</p>
+
+<ul style="text-align: justify">
+ 	<li>Absence of 3-dimensional depth</li>
+ 	<li>Simple icon like images, flat colors and typography</li>
+ 	<li>More use of negative or white space around content</li>
+ 	<li>Typographic variation</li>
+ 	<li>Color contrast</li>
+ 	<li>Minimalist and crisp design devoid of all unessential elements</li>
+</ul>
+<h2 style="text-align: justify"><strong>Coherence and flow are key here</strong></h2>
+<p style="text-align: justify">In flat design content hierarchy within the page plays a great role. This prevents elements from intersecting each other and as a result, the page has a natural flow. By switching among colors and text box you can shape this hierarchy. Often this creates an impression that the page is being built on typography, but various text boxes will intuitively make the user informed as what to do with them. Some buttons come out in flat background colors while there can be other buttons that use shapes.Â  Text box and color scheme are the most important design elements of any flat designed website.</p>
+
+<h2 style="text-align: justify"><strong>Flattened design colors</strong></h2>
+<p style="text-align: justify">The color is more important than ever with flat design. It is actually capable of doing lot more here. Basically, it creates the mood and feel of your entire site or page. As per flat design requirement, eye candy colors are more preferred as they can add aesthetic charm to your page without just creating visual clutter or too much conspicuousness. These colors are visually appealing and allow enriching them with better contrast. That is why so called boring dull colors are so detested in flat design. But in any case, the flat design prevents going in the opposite direction as well. The too glaring color scheme is not also recommended as they would only contribute to distraction.</p>
+<p style="text-align: justify">There is another philosophy regarding color that focuses on the tones of color rather than separate colors. You can start with one color displayed at its authentic full bodied hue and then subsequently lower the hue by mixing it with black or grey. This can allow you tweaking with multiple shades of color and can actually give you more options out of your color palette. The contrast will always be important in flat design maneuvers. The bright and saturated colors must look prominent with a light or dark backdrop behind.</p>
+
+<h2 style="text-align: justify"><strong>Less is more here</strong></h2>
+<p style="text-align: justify">Minimalism rules here. The less your on page elements are, the better it looks. It is the art of removing clutter from your web page. The use of white or negative space across print media publications is a great example of de-cluttering the page and flat design took the inspiration from there.Â  The negative space around provides breathing room for the eyes while reading a text and makes a relaxed effect.</p>
+<p style="text-align: justify">Flat design besides its simplicity offers a lot of scope for creativity and clutter free look with a lot of space for the eyes to move around play a vital role in creative elements of the design. While less is more, using the space effectively for a sleek, stylish and fresh feel is important.</p>
+
+<h2 style="text-align: justify"><strong>Aesthetics of simplicity</strong></h2>
+<p style="text-align: justify">As the depth and shadows have been removed from the designs, all the on-page elements must be straightforward and simple. From images, icons to fonts, all design elements should have a flat, minimalist and simple look. That is why, basic patterns and geometric shapes such as circles, squares and rectangles are so popular in flat design. Such icons apart from clearing the clutter also help to make the interface intuitive. Just as in the case of Facebook, we immediately recognize the â€˜fâ€™ icon within a blue square. Similarly, the icon â€˜inâ€™ in a blue square is immediately recognized as LinkedIn. The simpler the icon becomes, the more immediate the recognition would be. Such simple intuitive icons were always there but now they have been put into more contextual use. Just think of the save or print menu icon in Windows. That is how flat design works.</p>
+
+<h2 style="text-align: justify"><strong>Creating more value with less</strong></h2>
+<p style="text-align: justify">Offering less means allowing less clutter, it does not mean offering reduced value. Quite contrary is the truth. Actually, you get more value from a simple and minimalist design than when you have a lot of design elements creating a visual distraction on your web page. In flat design, typical ornamental aspects are removed from unnecessary distractions to create more value and usefulness. It provides more value with less design because only design elements serving a functional purpose are allowed.Â  Thus, it actually saves the user from distractions and makes user experience better. This is the reason for the minimalistic nature of flat design.</p>
+<p style="text-align: justify">Lastly, only because the so called flashy and baroque ornamental elements are absent here, you cannot call it boring. Rather, flat design with the right contrast of color, simple and intuitive icons and clean layout actually makes it a pleasure to attend a text document in peace, navigate easily between pages and view and click buttons with greater ease.</p>
+<p style="text-align: justify">Keval Padia is a Founder &amp; CEO of Nimblechapps, a fast-growing <a href="http://nimblechapps.com/mobile-app-development" target="_blank">android app development company</a>. The current innovation and updates of the field lures him to express his views and thoughts on certain topics. Check out their latest WordPress plugin â€“ <a href="http://savecontactform7.com/" target="_blank">Save Contact Form 7</a>.</p>
