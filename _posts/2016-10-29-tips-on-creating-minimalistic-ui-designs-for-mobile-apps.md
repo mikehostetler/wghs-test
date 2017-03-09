@@ -1,7 +1,7 @@
 ---
 ID: 4
 post_title: >
-  Tips On Creating Minimalistic UI Designs
+  10 Tips On Creating Minimalistic UI Designs
   For Mobile Apps
 author: admin
 post_date: 2016-10-29 17:58:45
